@@ -1,4 +1,4 @@
-# SANITAS
+# SANITAS: Web Application**  
 
 ## **Overview**
 **Sanitas** is a web application designed to digitalize and simplify the process of booking medical appointments. The project aims to improve accessibility for patients and optimize the scheduling process for healthcare professionals. By integrating secure and efficient solutions, **Sanitas** enhances user experience while ensuring data protection.
@@ -49,6 +49,12 @@
 - Mobile application development for wider accessibility.
 - Integration of online payment systems.
 - Performance improvements for high user traffic.
+
+---
+
+## **Access Project Files**  
+The full project content, including source code and documentation, is available in the following Google Drive folder:  
+[**SANITAS Project Files**](https://drive.google.com/drive/folders/1LwzBEU7sdsAYmiADrYG9Op-qCGCB7IHt?usp=sharing).
 
 ---
 
